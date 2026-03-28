@@ -19,7 +19,7 @@ export const menuData: MenuCategory[] = [
     id: "pollo-lena",
     title: "Pollo a la Leña",
     emoji: "🔥",
-    image: "/images/hero-chicken.jpg",
+    image: "images/hero-chicken.jpg",
     items: [
       {
         id: "pl-1",
@@ -69,7 +69,7 @@ export const menuData: MenuCategory[] = [
     id: "broaster",
     title: "Broaster",
     emoji: "🍗",
-    image: "/images/broaster.jpg",
+    image: "images/broaster.jpg",
     items: [
       {
         id: "br-1",
@@ -105,7 +105,7 @@ export const menuData: MenuCategory[] = [
     id: "mostrito",
     title: "Mostrito",
     emoji: "💪",
-    image: "/images/mostro.jpg",
+    image: "images/mostro.jpg",
     items: [
       {
         id: "mt-1",
@@ -141,7 +141,7 @@ export const menuData: MenuCategory[] = [
     id: "mostro",
     title: "Mostro",
     emoji: "🦾",
-    image: "/images/combo.jpg",
+    image: "images/combo.jpg",
     items: [
       {
         id: "mo-1",

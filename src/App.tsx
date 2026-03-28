@@ -286,7 +286,7 @@ function HeroHeader() {
       {/* Background image with overlay */}
       <div className="absolute inset-0">
         <img
-          src="/images/hero-chicken.jpg"
+          src="images/hero-chicken.jpg"
           alt="Pollo a la leña"
           className="w-full h-full object-cover"
         />
